@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Steve",
+    "age": 10,
+    "weight": 30,
+    "gender": "male"
+  },
+  {
+    "name": "Stan",
+    "age": 15,
+    "weight": 60,
+    "gender": "male"
+  },
+  {
+    "name": "Tom",
+    "age": 18,
+    "weight": 70,
+    "gender": "male"
+  },
+  {
+    "name": "Marie",
+    "age": 18,
+    "weight": 58,
+    "gender": "female"
+  }
+]
