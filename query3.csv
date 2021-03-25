@@ -1,0 +1,4 @@
+﻿group,Trading,PermanentlyCeasedTrading,TemporarilyCeasedTrading
+Workforce Size < 250 ,0.748,0.005,0.247
+Workforce Size 250 +,0.798,0.005,0.197
+All Size Bands,0.767,0.005,0.228
