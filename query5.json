@@ -1,0 +1,538 @@
+{
+  "name": "query5",
+  "children": [
+    {
+      "name": "Manufacturing",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.635},
+            {"name": "Business rates holiday", "size": 0.140},
+            {"name": "Deferring VAT payments", "size": 0.443},
+            {"name": "HMRC Time To Pay scheme", "size": 0.193},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.048},
+            {"name": "Accredited finance agreements", "size": 0.086},
+            {"name": "We have not applied for any of these initiatives", "size": 0.260}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.199},
+            {"name": "Business rates holiday", "size": 0.079},
+            {"name": "Deferring VAT payments", "size": 0.330},
+            {"name": "HMRC Time To Pay scheme", "size": 0.147},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.026},
+            {"name": "Accredited finance agreements", "size": 0.013},
+            {"name": "We have not applied for any of these initiatives", "size": 0.237}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.383},
+            {"name": "Business rates holiday", "size": 0.081},
+            {"name": "Deferring VAT payments", "size": 0.167},
+            {"name": "HMRC Time To Pay scheme", "size": 0.092},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.028},
+            {"name": "Accredited finance agreements", "size": 0.066},
+            {"name": "We have not applied for any of these initiatives", "size": 0.481}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Water Supply, Sewerage, Waste Management",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.686},
+            {"name": "Business rates holiday", "size": 0.157},
+            {"name": "Deferring VAT payments", "size": 0.571},
+            {"name": "HMRC Time To Pay scheme", "size": 0.214},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.057},
+            {"name": "Accredited finance agreements", "size": 0.100},
+            {"name": "We have not applied for any of these initiatives", "size": 0.214}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.286},
+            {"name": "Business rates holiday", "size": 0.043},
+            {"name": "Deferring VAT payments", "size": 0.371},
+            {"name": "HMRC Time To Pay scheme", "size": 0.157},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.014},
+            {"name": "Accredited finance agreements", "size": 0.043},
+            {"name": "We have not applied for any of these initiatives", "size": 0.243}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.386},
+            {"name": "Business rates holiday", "size": 0.071},
+            {"name": "Deferring VAT payments", "size": 0.229},
+            {"name": "HMRC Time To Pay scheme", "size": 0.143},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.029},
+            {"name": "Accredited finance agreements", "size": 0.071},
+            {"name": "We have not applied for any of these initiatives", "size": 0.457}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Construction",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.809},
+            {"name": "Business rates holiday", "size": 0.135},
+            {"name": "Deferring VAT payments", "size": 0.599},
+            {"name": "HMRC Time To Pay scheme", "size": 0.287},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.060},
+            {"name": "Accredited finance agreements", "size": 0.096},
+            {"name": "We have not applied for any of these initiatives", "size": 0.117}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.291},
+            {"name": "Business rates holiday", "size": 0.057},
+            {"name": "Deferring VAT payments", "size": 0.443},
+            {"name": "HMRC Time To Pay scheme", "size": 0.234},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.021},
+            {"name": "Accredited finance agreements", "size": 0.018},
+            {"name": "We have not applied for any of these initiatives", "size": 0.270}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.429},
+            {"name": "Business rates holiday", "size": 0.032},
+            {"name": "Deferring VAT payments", "size": 0.174},
+            {"name": "HMRC Time To Pay scheme", "size": 0.096},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.050},
+            {"name": "Accredited finance agreements", "size": 0.110},
+            {"name": "We have not applied for any of these initiatives", "size": 0.422}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wholesale And Retail Trade",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.726},
+            {"name": "Business rates holiday", "size": 0.446},
+            {"name": "Deferring VAT payments", "size": 0.601},
+            {"name": "HMRC Time To Pay scheme", "size": 0.250},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.133},
+            {"name": "Accredited finance agreements", "size": 0.090},
+            {"name": "We have not applied for any of these initiatives", "size": 0.155}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.239},
+            {"name": "Business rates holiday", "size": 0.334},
+            {"name": "Deferring VAT payments", "size": 0.469},
+            {"name": "HMRC Time To Pay scheme", "size": 0.183},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.091},
+            {"name": "Accredited finance agreements", "size": 0.015},
+            {"name": "We have not applied for any of these initiatives", "size": 0.160}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.321},
+            {"name": "Business rates holiday", "size": 0.093},
+            {"name": "Deferring VAT payments", "size": 0.158},
+            {"name": "HMRC Time To Pay scheme", "size": 0.076},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.042},
+            {"name": "Accredited finance agreements", "size": 0.083},
+            {"name": "We have not applied for any of these initiatives", "size": 0.538}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accommodation And Food Service Activities",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.871},
+            {"name": "Business rates holiday", "size": 0.782},
+            {"name": "Deferring VAT payments", "size": 0.806},
+            {"name": "HMRC Time To Pay scheme", "size": 0.422},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.249},
+            {"name": "Accredited finance agreements", "size": 0.206},
+            {"name": "We have not applied for any of these initiatives", "size": 0.027}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.251},
+            {"name": "Business rates holiday", "size": 0.633},
+            {"name": "Deferring VAT payments", "size": 0.596},
+            {"name": "HMRC Time To Pay scheme", "size": 0.306},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.178},
+            {"name": "Accredited finance agreements", "size": 0.035},
+            {"name": "We have not applied for any of these initiatives", "size": 0.129}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.404},
+            {"name": "Business rates holiday", "size": 0.180},
+            {"name": "Deferring VAT payments", "size": 0.235},
+            {"name": "HMRC Time To Pay scheme", "size": 0.137},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.061},
+            {"name": "Accredited finance agreements", "size": 0.122},
+            {"name": "We have not applied for any of these initiatives", "size": 0.398}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transportation And Storage",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.766},
+            {"name": "Business rates holiday", "size": 0.241},
+            {"name": "Deferring VAT payments", "size": 0.553},
+            {"name": "HMRC Time To Pay scheme", "size": 0.248},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.064},
+            {"name": "Accredited finance agreements", "size": 0.092},
+            {"name": "We have not applied for any of these initiatives", "size": 0.167}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.287},
+            {"name": "Business rates holiday", "size": 0.145},
+            {"name": "Deferring VAT payments", "size": 0.440},
+            {"name": "HMRC Time To Pay scheme", "size": 0.188},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.025},
+            {"name": "Accredited finance agreements", "size": 0.025},
+            {"name": "We have not applied for any of these initiatives", "size": 0.184}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.355},
+            {"name": "Business rates holiday", "size": 0.096},
+            {"name": "Deferring VAT payments", "size": 0.199},
+            {"name": "HMRC Time To Pay scheme", "size": 0.078},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.021},
+            {"name": "Accredited finance agreements", "size": 0.074},
+            {"name": "We have not applied for any of these initiatives", "size": 0.489}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Information And Communication",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.401},
+            {"name": "Business rates holiday", "size": 0.082},
+            {"name": "Deferring VAT payments", "size": 0.474},
+            {"name": "HMRC Time To Pay scheme", "size": 0.137},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.036},
+            {"name": "Accredited finance agreements", "size": 0.038},
+            {"name": "We have not applied for any of these initiatives", "size": 0.373}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.154},
+            {"name": "Business rates holiday", "size": 0.031},
+            {"name": "Deferring VAT payments", "size": 0.397},
+            {"name": "HMRC Time To Pay scheme", "size": 0.106},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.017},
+            {"name": "Accredited finance agreements", "size": 0.010},
+            {"name": "We have not applied for any of these initiatives", "size": 0.127}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.260},
+            {"name": "Business rates holiday", "size": 0.070},
+            {"name": "Deferring VAT payments", "size": 0.163},
+            {"name": "HMRC Time To Pay scheme", "size": 0.067},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.029},
+            {"name": "Accredited finance agreements", "size": 0.050},
+            {"name": "We have not applied for any of these initiatives", "size": 0.587}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Professional, Scientific And Technical Activities",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.622},
+            {"name": "Business rates holiday", "size": 0.126},
+            {"name": "Deferring VAT payments", "size": 0.662},
+            {"name": "HMRC Time To Pay scheme", "size": 0.186},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.049},
+            {"name": "Accredited finance agreements", "size": 0.081},
+            {"name": "We have not applied for any of these initiatives", "size": 0.207}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.216},
+            {"name": "Business rates holiday", "size": 0.078},
+            {"name": "Deferring VAT payments", "size": 0.518},
+            {"name": "HMRC Time To Pay scheme", "size": 0.146},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.022},
+            {"name": "Accredited finance agreements", "size": 0.023},
+            {"name": "We have not applied for any of these initiatives", "size": 0.176}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.350},
+            {"name": "Business rates holiday", "size": 0.073},
+            {"name": "Deferring VAT payments", "size": 0.228},
+            {"name": "HMRC Time To Pay scheme", "size": 0.083},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.023},
+            {"name": "Accredited finance agreements", "size": 0.074},
+            {"name": "We have not applied for any of these initiatives", "size": 0.503}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Administrative And Support Service Activities",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.757},
+            {"name": "Business rates holiday", "size": 0.201},
+            {"name": "Deferring VAT payments", "size": 0.637},
+            {"name": "HMRC Time To Pay scheme", "size": 0.205},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.218},
+            {"name": "Accredited finance agreements", "size": 0.123},
+            {"name": "We have not applied for any of these initiatives", "size": 0.139}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.280},
+            {"name": "Business rates holiday", "size": 0.120},
+            {"name": "Deferring VAT payments", "size": 0.469},
+            {"name": "HMRC Time To Pay scheme", "size": 0.147},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.144},
+            {"name": "Accredited finance agreements", "size": 0.017},
+            {"name": "We have not applied for any of these initiatives", "size": 0.206}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.401},
+            {"name": "Business rates holiday", "size": 0.089},
+            {"name": "Deferring VAT payments", "size": 0.227},
+            {"name": "HMRC Time To Pay scheme", "size": 0.102},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.063},
+            {"name": "Accredited finance agreements", "size": 0.090},
+            {"name": "We have not applied for any of these initiatives", "size": 0.450}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.405},
+            {"name": "Business rates holiday", "size": 0.085},
+            {"name": "Deferring VAT payments", "size": 0.263},
+            {"name": "HMRC Time To Pay scheme", "size": 0.070},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.022},
+            {"name": "Accredited finance agreements", "size": 0.028},
+            {"name": "We have not applied for any of these initiatives", "size": 0.484}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.098},
+            {"name": "Business rates holiday", "size": 0.038},
+            {"name": "Deferring VAT payments", "size": 0.184},
+            {"name": "HMRC Time To Pay scheme", "size": 0.057},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.000},
+            {"name": "Accredited finance agreements", "size": 0.000},
+            {"name": "We have not applied for any of these initiatives", "size": 0.228}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.459},
+            {"name": "Business rates holiday", "size": 0.098},
+            {"name": "Deferring VAT payments", "size": 0.174},
+            {"name": "HMRC Time To Pay scheme", "size": 0.022},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.000},
+            {"name": "Accredited finance agreements", "size": 0.066},
+            {"name": "We have not applied for any of these initiatives", "size": 0.421}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Human Health And Social Work Activities",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.345},
+            {"name": "Business rates holiday", "size": 0.134},
+            {"name": "Deferring VAT payments", "size": 0.162},
+            {"name": "HMRC Time To Pay scheme", "size": 0.063},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.106},
+            {"name": "Accredited finance agreements", "size": 0.028},
+            {"name": "We have not applied for any of these initiatives", "size": 0.556}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.085},
+            {"name": "Business rates holiday", "size": 0.092},
+            {"name": "Deferring VAT payments", "size": 0.155},
+            {"name": "HMRC Time To Pay scheme", "size": 0.042},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.070},
+            {"name": "Accredited finance agreements", "size": 0.000},
+            {"name": "We have not applied for any of these initiatives", "size": 0.141}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.310},
+            {"name": "Business rates holiday", "size": 0.042},
+            {"name": "Deferring VAT payments", "size": 0.099},
+            {"name": "HMRC Time To Pay scheme", "size": 0.056},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.035},
+            {"name": "Accredited finance agreements", "size": 0.014},
+            {"name": "We have not applied for any of these initiatives", "size": 0.585}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arts, Entertainment And Recreation",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.763},
+            {"name": "Business rates holiday", "size": 0.572},
+            {"name": "Deferring VAT payments", "size": 0.612},
+            {"name": "HMRC Time To Pay scheme", "size": 0.331},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.180},
+            {"name": "Accredited finance agreements", "size": 0.183},
+            {"name": "We have not applied for any of these initiatives", "size": 0.126}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.219},
+            {"name": "Business rates holiday", "size": 0.450},
+            {"name": "Deferring VAT payments", "size": 0.435},
+            {"name": "HMRC Time To Pay scheme", "size": 0.255},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.108},
+            {"name": "Accredited finance agreements", "size": 0.043},
+            {"name": "We have not applied for any of these initiatives", "size": 0.176}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.410},
+            {"name": "Business rates holiday", "size": 0.122},
+            {"name": "Deferring VAT payments", "size": 0.212},
+            {"name": "HMRC Time To Pay scheme", "size": 0.104},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.058},
+            {"name": "Accredited finance agreements", "size": 0.108},
+            {"name": "We have not applied for any of these initiatives", "size": 0.392}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "All Industries",
+      "children": [
+        {
+          "name": "Applied Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.672},
+            {"name": "Business rates holiday", "size": 0.274},
+            {"name": "Deferring VAT payments", "size": 0.564},
+            {"name": "HMRC Time To Pay scheme", "size": 0.223},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.112},
+            {"name": "Accredited finance agreements", "size": 0.099},
+            {"name": "We have not applied for any of these initiatives", "size": 0.207}
+          ]
+        },
+        {
+          "name": "Received Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.222},
+            {"name": "Business rates holiday", "size": 0.191},
+            {"name": "Deferring VAT payments", "size": 0.427},
+            {"name": "HMRC Time To Pay scheme", "size": 0.168},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.070},
+            {"name": "Accredited finance agreements", "size": 0.018},
+            {"name": "We have not applied for any of these initiatives", "size": 0.189}
+          ]
+        },
+        {
+          "name": "Intended To Apply Initiatives",
+          "children": [
+            {"name": "Coronavirus Job Retention Scheme", "size": 0.368},
+            {"name": "Business rates holiday", "size": 0.091},
+            {"name": "Deferring VAT payments", "size": 0.190},
+            {"name": "HMRC Time To Pay scheme", "size": 0.088},
+            {"name": "Government-funded small business grant or loan schemes", "size": 0.039},
+            {"name": "Accredited finance agreements", "size": 0.080},
+            {"name": "We have not applied for any of these initiatives", "size": 0.482}
+          ]
+        }
+      ]
+}
+  ]
+}
