@@ -21,7 +21,7 @@ import jxl.read.biff.BiffException;
 
 
 
-public class Enakting {
+public class BICS {
 
 	public ArrayList<Hashtable<String, ArrayList<String>>> get(Workbook workbook, int sheetNum,int colsStart,
 															   int colsEnd,int rowDataStart, int rowEnd, int rowValStart ) {
