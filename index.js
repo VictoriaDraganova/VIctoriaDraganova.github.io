@@ -2,6 +2,7 @@
     height = 400;
 
 // First Chart -----------------------------------------------------------------------
+// Some of the code for this chart has been taken from https://gist.github.com/bricedev/f80fdbc2c03dbc1ae4e8
 
     var margin = {top: 180, right: 500, bottom: 20, left: 400}
 
@@ -221,6 +222,7 @@
     });
 
 // Second Chart -----------------------------------------------------------------------
+// Some of the code for the following 3 charts has been taken from https://www.d3-graph-gallery.com/graph/barplot_stacked_highlight.html
 
 
     var margin2 = {top: 300, right: 500, bottom: 400, left: 300}
@@ -581,7 +583,9 @@
     })
 
 
-//Fifth chart----------------------------------------------------------------------------------
+// Fifth chart----------------------------------------------------------------------------------
+// Some of the code for the following chart has been taken from https://gist.github.com/mbostock/7607535
+
     var diameter = 900
     var margin6 = {top: 0, right: 500, bottom: 600, left: 1600}
 
